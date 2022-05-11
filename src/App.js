@@ -12,7 +12,7 @@ function App() {
       <div className="col">
         <div className="container">
           <Splash/>
-          <div className="section">This is another section.</div>
+          <section className="child">UNDER CONSTRUCTION</section>
         </div>
       </div>
     </div>
